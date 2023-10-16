@@ -1,0 +1,19 @@
+td,th{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+}
+th{
+    border-bottom: 1px solid white;
+}
+
+tr{
+    text-align: center;
+}
+
+.fn{
+    width:100px;
+}
+table{
+    border:1px solid white;
+    
+}
